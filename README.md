@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+
+
+<a href="/index">index</a>
+
 First, run the development server:
 
 ```bash
