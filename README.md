@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-<a href="/index">index</a>
+<a href="/src/pages/index">index</a>
 
 First, run the development server:
 
